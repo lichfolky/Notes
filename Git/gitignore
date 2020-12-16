@@ -1,0 +1,44 @@
+# sbt
+# (may want to keep parts of 'project')
+bin/
+project/
+target/
+build/
+
+# eclipse
+build
+.classpath
+.project
+.settings
+.worksheet
+
+# IDE - VSCode
+.vscode/*
+
+# intellij idea
+.idea
+*.log
+*.iml
+*.ipr
+*.iws
+
+#other
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# other?
+.history
+.scala_dependencies
+.cache
+.cache-main
+
+#general
+*.class
