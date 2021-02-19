@@ -1,4 +1,8 @@
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+
 # strings
+
+multi-line string:
 ```
 let multiLineString = `this
 is
@@ -24,6 +28,7 @@ The Unicode escape sequences require at least four hexadecimal digits following 
 
 
 # loops
+
 for arrays:
 ```
 const arr = [3, 5, 7];
@@ -48,18 +53,21 @@ function outside(x) {
   }
   return inside;
 }
+
+
 fn_inside = outside(3); // Think of it like: give me a function that adds 3 to whatever you give
-                        // it
+
 result = fn_inside(5); // returns 8
 
 result1 = outside(3)(5); // returns 8
 ```
+
 the variable it's preserved untill the returned inside is no longer accessible.
 
 ```
 var getCode = (function() {
   var apiCode = '0]Eal(eh&2';    // A code we do not want outsiders to be able to modify...
-  
+
   return function() {
     return apiCode;
   };
@@ -67,6 +75,7 @@ var getCode = (function() {
 
 getCode();    // Returns the apiCode
 ```
+????
 ```
 var createPet = function(name) {
     var sex;
@@ -82,6 +91,7 @@ var createPet = function(name) {
     }
 }
 ```
+
 ## The arguments object
 The arguments of a function are maintained in an array-like object. Within a function, you can address the arguments passed to it as follows:
 `arguments[i]`
@@ -115,9 +125,10 @@ multiply(5);
 ```
 
 ## rest parameters
+
 The rest parameter syntax allows us to represent an indefinite number of arguments as an array.
 
-In the following example, the function multiply uses rest parameters to collect arguments from the second one to the end. 
+In the following example, the function multiply uses rest parameters to collect arguments from the second one to the end.
 ```
 function multiply(multiplier, ...theArgs) {
   return theArgs.map(x => multiplier * x);
@@ -135,7 +146,7 @@ has no binding of `this`.
 ## `this`
 ```
 function Person() {
-  var self = this; // Some choose `that` instead of `self`. 
+  var self = this; // Some choose `that` instead of `self`.
                    // Choose one and be consistent.
   self.age = 0;
 
@@ -159,6 +170,7 @@ var three = foo[2];
 // with destructuring
 var [one, two, three] = foo;
 ```
+
 ## Operators
 
 + Strict equal (`===`)	Returns true if the operands are equal and of the same type
@@ -172,7 +184,7 @@ var [one, two, three] = foo;
 ```
 + `??`  works like `||`, but it only returns the second expression, when the first one is "nullish", i.e. null or undefined. It is thus the better alternative to provide defaults, when values like '' or 0 are valid values for the first expression, too.
 
-+ ternary operator `condition ? val1 : val2` 
++ ternary operator `condition ? val1 : val2`
 ```
 var status = (age >= 18) ? 'adult' : 'minor';
 ```
@@ -231,14 +243,14 @@ The Intl object is the namespace for the ECMAScript Internationalization API
 
 ```
 const msPerDay = 24 * 60 * 60 * 1000;
- 
+
 // July 17, 2014 00:00:00 UTC.
 const july172014 = new Date(msPerDay * (44 * 365 + 11 + 197));
 
 const options = { year: '2-digit', month: '2-digit', day: '2-digit',
                 hour: '2-digit', minute: '2-digit', timeZoneName: 'short' };
 const americanDateTime = new Intl.DateTimeFormat('en-US', options).format;
- 
+
 console.log(americanDateTime(july172014)); // 07/16/14, 5:00 PM PDT
 ```
 
@@ -285,11 +297,11 @@ or
 colors.forEach(color => console.log(color))
 ```
 
-+ concat() joins two or more arrays 
++ concat() joins two or more arrays
 `myArray = myArray.concat('a', 'b', 'c')`
 + join(delimiter = ',')
-push 
-pop 
+push
+pop
 shift
 unshift
 + slice(start_index, upto_index) extracts a section of an array and returns a new array.

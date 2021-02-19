@@ -33,3 +33,14 @@ https://developers.google.com/web/fundamentals/performance/optimizing-content-ef
 
 responsive images!
 https://jakearchibald.com/2015/anatomy-of-responsive-images/#varying-on-type
+
+
+
+
+-image-optimisation-tips
+<link rel="preload" href="/img/logo.svg" as="image">
+
+ simplify your SVG artwork
+
+
+https://www.creativebloq.com/how-to/4-essential-image-optimisation-tips

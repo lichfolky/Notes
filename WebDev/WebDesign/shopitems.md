@@ -1,0 +1,11 @@
+- mobile
+- one image in scale of the product
+could be a great idea create a site with a big item to sell in the middle half as a background
+- display info also in list es price brand name
+- pinch image zoom!!!
+- short checkout registration form
+- auto format credit card with spaces
+- input mask for prefix telephone? es ( ___ ) ___ - ________
+- live inline validation
+- required/optional fields
+- expiration date as the credit card ( start with o , es 02) 
