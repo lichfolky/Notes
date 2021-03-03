@@ -28,7 +28,7 @@ git push -u origin main
 
 if already exist
 ```
-git remote add origin https://github.com/lichfolky/web-cv.git
+git remote add origin https://github.com/lichfolky/choco-vue.git
 git branch -M main
 git push -u origin main
 ```
