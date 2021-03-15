@@ -1,3 +1,5 @@
+# PHP
+
 ```
 brew install php@8.0
 
@@ -43,5 +45,3 @@ foreach (getAllFoos($db) as $row) {
     $stmt->execute();
 ?php>
 
-
-ciao
