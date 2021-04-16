@@ -19,6 +19,11 @@ no to much changes of colors
 
 
 
+Questo è quello che cerchi:
+https://github.com/GoogleChromeLabs/squoosh/tree/dev/cli
+
+npx @squoosh/cli --mozjpeg -d light-images .
+
   https://squoosh.app
   https://www.youtube.com/watch?v=F1kYBnY6mwg&list=PLNYkxOF6rcIDJHOcBzho38p6WTn3vESvQ&index=6&t=0s
 
@@ -26,7 +31,7 @@ no to much changes of colors
 
 
 https://github.com/svg/svgo
-SVG Optimizer is a Nodejs-based tool for optimizing SVG vector graphics files. 
+SVG Optimizer is a Nodejs-based tool for optimizing SVG vector graphics files.
 
 https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/client-hints
 
