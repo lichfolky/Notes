@@ -128,3 +128,12 @@ preferences
 wireframes
 
 prototypes
+
+information architecture <-> structure site
+
+visual designer
+consistent visual
+
+Product leads: Product leads are in charge of ensuring the final product’s success and communicating with stakeholders. Your product lead will define the project’s core goals and deliverables, so you can focus on creating innovative design solutions. At some companies, product leads are known as product managers.
+
+Program managers: Program managers ensure clear and timely communication across the team, so that the process of building a useful product moves smoothly from start to finish. Program managers supervise, support, and keep track of the project as a whole. They assign tasks to team members, monitor the project budget, and manage timelines, among other things. Think of your team’s program manager as your go-to source of support when facing any setbacks or issues with your work.
