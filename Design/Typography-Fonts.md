@@ -27,3 +27,20 @@ A px is 0.75 pt?
 Components with greater density should have lower density margins and gutters.
 
 To maintain consistency in your layout, use a consistent aspect ratio on elements like images, surfaces, and screen size.
+
+https://medium.com/variable-fonts/https-medium-com-tiro-introducing-opentype-variable-fonts-12ba6cd2369
+OpenType Font Variations
+
+OpenType format
+OpenType Layout
+
+TrueType
+
+Compact Font Format (CFF)
+
+
+https://docs.microsoft.com/en-gb/typography/opentype/spec/
+
+
+interpolation between design masters as part of their workflows
+weights, widths or optical sizes
