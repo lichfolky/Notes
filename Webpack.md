@@ -80,3 +80,7 @@ npx webpack-cli init
 npx webpack-cli init
 ```
 
+First, you could use cd to access the different folders automatically:
+cd folder && npm start && cd ..
+But there’s a more elegant solution, which is to use the --prefix flag to specify the path:
+npm start --prefix path/to/your/folder
