@@ -256,8 +256,68 @@ rows of line height
 2 rows after text and before subheading to avoid floating text (when you dont know what paragraph an heading belongs )
 
 breake the grid when an element needs to stand-out 
+
 ## indentation
 
-around the size of the body text
+around the size of the body text (1m)
+Don't indent the first line of the first paragraph
+Don't indent the first line after a heading
+Don't indent the first line after an image
+
+
+
+hierarchy 
+
+size content
+
+sckeck up a wireframe
+what is important
+
+create hierarchy and differentiate different part of content, two different things
+
+typography it'also about the white space around our content
+keyrole in readability, relax sight and let user breath
+
+## Text alignment 
+
+giustified texts create rivers, and it's no really legible it they are too big
+
+avoid big white spaces at the left in  left aligned texts. To avoid those gaps change font sizes and line lenght.
+
+right to left texts are more legible if right aligned.
+
+centered aligned, difficult to read don't center if more of three lines of text.
+
+## small caps
+for official titles, headiings article titles, opening lines of chapter or article or ,works well with old stiles figures (alegria) 
+check for support
+
+## Drop cap
+ large letter at beginning text
+
+## colors
+check good contrast
+
+#333 and #F9F9F9
+#1e1e1e and #F9F9F9 amd 999999 and AE372E 
+
+chec color contrast scores
+AA Large for headings or > = 18 px
+AAA for max legibility and long text
+AA for body text
+
+contrast can be used to create hierarchy and draw attenction
+
+pure black on a white it's hard to the eyes, gray gives nouance
+
+not too many colors, the user should recognize hierarchy
+
+don't use only colors for status and definitions
+
+blockquotes
+headings 
+metadfata 
+navigation
+
 
 
