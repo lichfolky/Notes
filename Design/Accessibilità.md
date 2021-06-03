@@ -1,1 +1,0 @@
-Blind: https://lynx.browser.org/

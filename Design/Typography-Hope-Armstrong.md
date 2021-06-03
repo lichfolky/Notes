@@ -24,6 +24,10 @@ Alegreya SC (good for books)
 
 brandon (has ligatures)
 
+marrywather
+
+https://www.dafont.com/it/lansbury-fg.font Murder, she wrote
+
 visual component of the written word
 
 utility: useful clear and legible
@@ -300,6 +304,8 @@ check good contrast
 
 #333 and #F9F9F9
 #1e1e1e and #F9F9F9 amd 999999 and AE372E 
+1a1a1a 
+exclusive colors for items like links, helps hierarchy s
 
 chec color contrast scores
 AA Large for headings or > = 18 px
@@ -318,6 +324,75 @@ blockquotes
 headings 
 metadfata 
 navigation
+
+hanging puntuation
+like quotes outside the text right margin
+or indent list inside margin
+
+    - like this
+
+tables with subtle borders or columns
+
+# pairing differente typefaces
+
+FF Meta + ff meta serif
+
+### Pairing rules
+- pair type faces with similar proportions
+es: Helvetica + Garamond
+Aaux Office Aaux Pro (super families)
+- pair typefaces with similar personalities and mood
+- pair typefaces from the same historical period
+- pair typefaces from the same designer
+ 
+ Pathway Gothic One + alegrya 
+
+### Other displays 
+
+mobile 
+white space decrease 
+- enlarge body text size
+- decrease headings text size
+- tighten the leading (interlinea)
+- check line length or measure
+- adjust paddings
+- clickable areas bigger (apple 44pt x 44pt, in android 48x48)
+
+px and dpi are different, the second is physical resolution
+devices has different pixel density
+rearrange hierarchy
+
+## layout desing 
+
+baseline grid 
+multi column grid
+hang line grid
+modular grid consistent division horiz and vertical.
+
+Mockup for a responsive website
+
+desktop design 3 column
+tablet 2 column
+mobile 1 column
+
+## variable fonts
+es:
+Forday 
+
+## Dangly 
+single word in a line
+single sentence in a column
+
+avoid them, but in dynamic text it's impossible
+
+## Puntuation
+
+curved quotation mark, not striaght
+
+## Stylistic alternates
+es:
+raleway
+
 
 
 
