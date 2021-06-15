@@ -20,12 +20,12 @@ It’s an iterative process.
   Evaluate your designs against your end user's needs. Test with real people, collect feedbacks.
 
 Guiding principles:
+
 - Design for users and their needs. It can be tempting to design something in a certain way because it looks cool or solves one of your own problems. You're designing to help a diverse set of humans with specific needs.
 - Make your copy conversational. The writing within your product design should have a friendly, simple, and easily accessible tone. Avoid jargon or overly-complicated terminology that users might not understand.
 - Present all information clearly. Users should be able to navigate your product design easily and without assistance from others. Make key information, like checkout buttons, simple to find and identify.
 - Acknowledge user actions. Your product should let users know when they’ve executed a task correctly. That might be as simple as having a new window pop up when an icon is pressed, or as complex as animated tossed confetti to demonstrate that the user has accomplished a task.
 - Offer support. As UX designers, our goal is to make designs accessible and understandable to every user, but sometimes we fall a bit short. Offer users a safety net, like a support center or list of Frequently Asked Questions. Make sure a frustrated user doesn’t have to swipe and click all over the product to find help.
-
 
 **The five elements of UX design**
 
@@ -34,13 +34,11 @@ From an abstract idea to a concrete product
 - Strategy
   Define the user's needs and business objectives.
 
-
   The reason for the product, application or the site, why we create it, who are we doing this for, why people are willing to use it, why they need it. The goal here is to define the user needs and business objectives.
   This could be done through Strategic Research Process, where you interview users, and all stakeholders in addition to review the competing products or companies.
 
 - Scope
   this is where you'll determine what you're building, the features and content to be included in the product.
-
 
   Defines the functional and content requirements. What are the features, and content contained in the application or product. The requirements should fulfill and be aligned with the strategic goals.
 
@@ -57,15 +55,16 @@ From an abstract idea to a concrete product
   Information Architecture: Given the content requirements, It defines the arrangement of content elements, how they are organized, to facilitate human understanding.
 
   Good Interaction design:
-    helps people to accomplish their goals.
-    effectively communicates interactivity and functionality(what user can do).
-    informs user about state changes(file has been saved, or any feedback), while they interact.
-    prevents user error or mistakes, like the system asks user to confirm potentially harmful action(i.e. deletion).
+  helps people to accomplish their goals.
+  effectively communicates interactivity and functionality(what user can do).
+  informs user about state changes(file has been saved, or any feedback), while they interact.
+  prevents user error or mistakes, like the system asks user to confirm potentially harmful action(i.e. deletion).
   Good Information Architecture:
-    organizes, categorizes, and prioritizes the information based on user needs and business objectives.
-    makes it easy to understand and move through information presented.
-    flexible to accommodate growth and adapt to change.
-    appropriate for the audience.
+  organizes, categorizes, and prioritizes the information based on user needs and business objectives.
+  makes it easy to understand and move through information presented.
+  flexible to accommodate growth and adapt to change.
+  appropriate for the audience.
+
 - Skeleton
   the layout.
 
@@ -98,8 +97,6 @@ Design thinking is a way to create solutions that address a real user's problem 
   test the prototype with users
   You can use this feedback to make changes and improvements to your designs, as many times as you need.
 
-
-
 **Lean UX**
 
 The Lean UX process focuses on reducing wasted time and resources, and producing a workable product as soon as possible.
@@ -108,6 +105,7 @@ Make. -> MVP which is a simple prototype of your designs that you can test with 
 Check.
 
 Principles:
+
 - Move forward. Focus only on design elements and features that move the design process toward a particular goal. Don’t get distracted by “nice-to-haves.”
 - Stay curious. Lean UX is about using feedback from users and stakeholders to revise and improve your designs. Continuously seek feedback to understand why specific design choices work or don’t work.
 - Test ideas in the real world. Lean UX encourages designers to test their ideas - using prototypes, for example - outside of the conference room and with potential users.
@@ -117,9 +115,10 @@ Principles:
 
 **Double Diamond**
 Research:
+
 - Discover the problem. Gather information about potential issues users are facing.
 - Define the problem. Filter through the data, and focus on the main issue your product aims to solve.
-Design:
+  Design:
 - Develop solutions for the problem. Begin designing your product as a work in progress. This is where wireframes and prototypes come into play.
 - Deliver the product. Review and test your product to prepare it for release.
 

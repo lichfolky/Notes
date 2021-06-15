@@ -1,3 +1,26 @@
+## betterwebtype: you need only 5 fonts:
+
+- Gilroy
+  geometric sans serif font that feels modern
+- Meta Serif Pro
+  high quality serif font, it works really well for paragraphs and has many OpenType features like ligatures, alternative
+  digit styles and much more.
+
+- Roboto
+  workhorse font family
+- Work Sans
+  Work Sans is a variable sans serif font highly legible, even at smaller sizes which makes it great for UI design. The fact that it’s variable means that I can match various weights to get a good balance between font sizes which helps my UI designs look slicker.
+- Georgia
+  A web safe font
+
+A geometric sans serif
+A high quality serif for long text
+A workhorse font
+A variable font
+A web safe font
+
+## Font sizes
+
 fonts size depends from the distance from the screen
 
 mobile
@@ -34,21 +57,18 @@ TrueType
 
 Compact Font Format (CFF)
 
-
 https://docs.microsoft.com/en-gb/typography/opentype/spec/
-
 
 interpolation between design masters as part of their workflows
 weights, widths or optical sizes
 
-
 ### After course
-16 pixels is a clear standard. 
 
+16 pixels is a clear standard.
 
 The line-height property belongs to an exclusive club of CSS properties that accept unit-less numeric values.
 
-```p {
+````p {
    font-size:; /* Silence is golden; implicity 1em. */
    line-height: 1.5;
 }```
@@ -59,7 +79,7 @@ Using even numbers for font size and moltiplt for 1.5 will result in a whole num
 https://www.smashingmagazine.com/2011/11/the-perfect-paragraph/
 
 but line height 1.5 is enotught
-Fonts with a tall x-height or long descenders might benefit from more generous, separative leading. 
+Fonts with a tall x-height or long descenders might benefit from more generous, separative leading.
 
 p + p {
    text-indent: 1.5em  /* I like to keep the indentation length equal to the line height. */
@@ -98,3 +118,4 @@ And they did, indeed. This holds to this day: 16 pt text on Windows is ⅓ large
 In traditional metal type, em size is the height of the character piece.
 
 Why was the height called “em size”? Because letter “m” was coincidentally a square, and “m” width == character piece height == em size. Simple!
+````
