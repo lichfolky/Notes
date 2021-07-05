@@ -3,14 +3,15 @@ Design sprints
 to answer questions, define product directions, figure out cross-team strategies, and even build team culture.
 
 five phases typically spread out over five full, eight-hour days.
+The ideal team size in a design sprint is around 4–7 people
 
 Design sprints generally include five phases:
 
 - understand
-- ideate
+- ideate (sketch)
 - decide
 - prototype
-- test
+- test (validate)
 
 Before launching into a design sprint, you need to review your design challenge and ask yourself these key questions:
 
